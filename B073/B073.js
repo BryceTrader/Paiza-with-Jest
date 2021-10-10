@@ -27,6 +27,7 @@ function main(lines) {
 	console.log(trees.join(' '))
 
 	//--------------- end of block ---------------
-	return trees.join(' ')
+	response = trees
+	return response.join(' ')
 }
 module.exports = main
