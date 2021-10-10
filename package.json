@@ -5,7 +5,7 @@
 	"scripts": {
 		"build": "node jest-generator.js",
 		"test": "jest --coverage --silent --verbose",
-		"target": "jest --coverage --silent --verbose --runTestsByPath"
+		"target": "jest --coverage --verbose --runTestsByPath"
 	},
 	"keywords": [],
 	"author": "",
